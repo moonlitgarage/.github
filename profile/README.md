@@ -1,4 +1,4 @@
-<img src="https://moonlitgarage.com/main.png" class>
+<a href="https://moonlitgarage.com"><img src="https://moonlitgarage.com/main.png" class></a>
 
 <!--
 
