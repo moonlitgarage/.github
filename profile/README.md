@@ -1,4 +1,11 @@
+# Moonlit Garage, Inc.
+
+Not your traditional robotics company.
+<!--
+
 <a href="https://moonlitgarage.com"><img src="https://moonlitgarage.com/logo.svg" class></a>
+
+-->
 
 <!--
 
